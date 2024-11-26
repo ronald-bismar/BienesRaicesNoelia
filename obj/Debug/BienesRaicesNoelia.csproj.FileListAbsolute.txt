@@ -1,0 +1,6 @@
+C:\Users\Windows\Documents\SharpDevelop Projects\BienesRaicesNoelia\BienesRaicesNoelia\bin\Debug\BienesRaicesNoelia.exe.config
+C:\Users\Windows\Documents\SharpDevelop Projects\BienesRaicesNoelia\BienesRaicesNoelia\bin\Debug\BienesRaicesNoelia.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\BienesRaicesNoelia\BienesRaicesNoelia\bin\Debug\BienesRaicesNoelia.pdb
+C:\Users\Windows\Documents\SharpDevelop Projects\BienesRaicesNoelia\BienesRaicesNoelia\obj\Debug\BienesRaicesNoelia.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Documents\SharpDevelop Projects\BienesRaicesNoelia\BienesRaicesNoelia\obj\Debug\BienesRaicesNoelia.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\BienesRaicesNoelia\BienesRaicesNoelia\obj\Debug\BienesRaicesNoelia.pdb
